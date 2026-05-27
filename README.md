@@ -174,7 +174,7 @@ Clone the repository:
 git clone https://github.com/Vaibhavvvvvvvvv/jivahealth
 
 Move into the project directory:
-cd jiva-health-dashboard
+cd jivahealth
 
 Install dependencies:
 
